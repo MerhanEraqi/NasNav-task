@@ -3,19 +3,8 @@ import React, { Component } from 'react';
 class Cart extends Component {
     constructor(props) {
         super(props);
-
-
-    }
-    removeItem(index) {
-        // cartItems = cartItems.find(item => item.id === index);
-        // cartItems.splice(index, 1)
-        // console.log(cartItems)
-
     }
 
-    componentDidMount() {
-     
-    }
 
     render() {
         return (
@@ -27,7 +16,7 @@ class Cart extends Component {
                 <div className="offcanvas-body">
                     {this.props.items.length > 0 ? this.props.items.map((product, i) => {
                         return <div key={i} id={product.id} className='d-flex cart-card shadow-sm'>
-                            <div className='col-4 p-0 product-img'><img className='w-100 h-100' src={product.mainimg} alt="" /></div>
+                            <div className='col-4 p-0 product-img'><img className='w-100 h-100' src={require('../images/'+product.mainimg)} alt="" /></div>
                             <div className='col-8 px-3'>
                                 <div className='title'>
                                     {product.name}

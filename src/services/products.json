@@ -2,25 +2,8 @@
     {
         "id": 1,
         "name": "Adidas black t-shirt lorem ipsum dolor sit amet, consecteuer adipiscing elit.",
-        "mainimg": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
-        "images": [
-            {
-                "original": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg",
-                "thumbnail": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg"
-            },
-            {
-                "original": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg",
-                "thumbnail": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg"
-            },
-            {
-                "original": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg",
-                "thumbnail": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg"
-            },
-            {
-                "original": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg",
-                "thumbnail": "/images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_21_model-416x416.jpg"
-            }
-        ],
+        "mainimg": "img.jpg",
+        "images": ["img3.jpg","img1.jpg","img2.jpg","img.jpg"],
         "type": "Men",
         "price": 9999,
         "afterSalePrice": 9999,

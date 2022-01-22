@@ -3,11 +3,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import image from "../images/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_23_hover_model.jpg"
 
-const test = [{
-  "original": image
-}]
 class ProductGallery extends Component {
   constructor(props) {
     super(props);
@@ -33,18 +29,24 @@ class ProductGallery extends Component {
       images: this.props.product.images,
     };
 
+    this.handleImages = this.handleImages.bind(this);
+
   }
 
-  // componentDidMount(){
-  //   const images = [],
-  //   this.state.images.map((image)=>{
-  //     images.push({
-  //       'original': require('../images/img2.jpg'),
-  //       'thumbnail': require('../images/img2.jpg')
-  //     })
-  //   });
-  //   this.setState({images});
-  // }
+  componentDidMount(){
+    this.handleImages()
+  }
+
+  handleImages(){
+    let images = [];
+    this.state.images.map((image)=>{
+      images.push({
+        'original': require('../images/'+image),
+        'thumbnail': require('../images/'+image)
+      })
+    });
+    this.setState({images});
+  }
   
 
   
