@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas black t-shirt lorem ipsum dolor sit amet, consecteuer adipiscing elit.",
+        "mainimg": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
+        "images": [
+            {
+                "original": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
+                "thumbnail": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg"
+            },
+            {
+                "original": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
+                "thumbnail": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg"
+            },
+            {
+                "original": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
+                "thumbnail": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg"
+            },
+            {
+                "original": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg",
+                "thumbnail": "/static/media/Adicolor_Classics_3-Stripes_T-Shirt_Brown_HE9548_41_detail.5cffbb2d486b4f1af47c.jpg"
+            }
+        ],
+        "type": "Men",
+        "price": 9999,
+        "afterSalePrice": 9999,
+        "discount": "30%",
+        "rates": 22,
+        "size": [
+            "Small",
+            "Medium",
+            "Large",
+            "X Large",
+            "XX Large"
+        ],
+        "color": [
+            "https://picsum.photos/id/1018/1000/600/",
+            "https://picsum.photos/id/1018/1000/600/"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "for test",
+        "mainImg": "https://picsum.photos/id/1018/1000/600/",
+        "type": "Men",
+        "price": 9999,
+        "afterSalePrice": 9999,
+        "discount": "30%",
+        "rates": 22,
+        "size": [
+            "Small",
+            "Medium",
+            "Large",
+            "X Large",
+            "XX Large"
+        ],
+        "color": [
+            "https://picsum.photos/id/1018/1000/600/",
+            "https://picsum.photos/id/1018/1000/600/"
+        ]
+    }
+]

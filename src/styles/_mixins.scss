@@ -1,0 +1,11 @@
+@mixin hide-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  @mixin box($height, $width, $background) {
+    height: $height;
+    width: $width;
+    background-color: $background;
+  }
