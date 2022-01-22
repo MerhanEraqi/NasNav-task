@@ -32,7 +32,7 @@ class App extends Component {
     if (this.state.cartItems.filter(product => product.id === productId).length <= 0) {
       const cartItems = [...this.state.cartItems, product];
       this.setState({ cartItems })
-      let finalPrice = this.state.finalPrice + (product.price * this.state.newaddedProductQuantity);
+      let finalPrice = this.state.finalPrice + (product.price * product.quantity);
       this.setState({ finalPrice });
 
     }
@@ -41,7 +41,7 @@ class App extends Component {
   onRemoveProductFromCart(productId, index) {
     const cartItem = this.state.cartItems.find(product => product.id === productId);
     const cartItems = this.state.cartItems.slice(productId, 1);
-    let finalPrice = this.state.finalPrice - cartItem.price;
+    let finalPrice = this.state.finalPrice -  (cartItem.price * cartItem.quantity);
     this.setState({ finalPrice });
     this.setState({ cartItems })
   }
