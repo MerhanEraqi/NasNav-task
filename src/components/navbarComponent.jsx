@@ -14,7 +14,7 @@ class NavBar extends Component {
                   </button>
                   <div className="logo pb-sm-30 pb-xs-30">
                     <a href="index.html">
-                      <img src={window.location.origin + '/images/logo.png'} alt="" />
+                      <img src='images/logo.png' alt="" />
                     </a>
                   </div>
                 </div>
@@ -48,7 +48,7 @@ class NavBar extends Component {
                   <button className="search-btn" type="submit"><i className="fa fa-search"></i></button>
                 </form>
                 <div className='brand'>
-                  <img src={window.location.origin + '/images/1280px-Adidas_Logo.svg.png'} alt="" />
+                  <img src='images/1280px-Adidas_Logo.svg.png' alt="" />
                 </div>
                 <div className="header-middle-right">
                   <ul className="hmr-menu">

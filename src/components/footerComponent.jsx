@@ -8,7 +8,7 @@ class Footer extends Component {
                     <div className='row top-footer justify-content-between'>
                         <div className='col-12 col-sm-12 col-md-6 p-0'>
                             <a className='footer-logo pr-5'>
-                                <img src={window.location.origin + '/images/logo.png'} alt="" />
+                                <img src='images/logo.png' alt="" />
                             </a>
                             <p className='pr-0'>
                                 <span className='d-inline-block'>
@@ -55,25 +55,25 @@ class Footer extends Component {
                                     <ul>
                                         <li className='d-flex'>
                                             <a>
-                                            <img className='social-logo' src='/images/facebook.png'/>
+                                            <img className='social-logo' src='images/facebook.png'/>
                                             /YESHTERY
                                             </a>
                                         </li>
                                         <li className='d-flex'>
                                             <a>
-                                            <img className='social-logo' src='/images/linkedin.png'/>
+                                            <img className='social-logo' src='images/linkedin.png'/>
                                              /YESHTERY
                                             </a>
                                         </li>
                                         <li className='d-flex'>
                                             <a>
-                                            <img className='social-logo' src='/images/instagram.png'/>
+                                            <img className='social-logo' src='images/instagram.png'/>
                                              /YESHTERY
                                             </a>
                                         </li>
                                         <li className='d-flex'>
                                             <a>
-                                            <img className='social-logo' src='/images/twitter.png'/>
+                                            <img className='social-logo' src='images/twitter.png'/>
                                              /YESHTERY
                                             </a>
                                         </li>
@@ -86,14 +86,14 @@ class Footer extends Component {
                         <div className='bfr col-6 col-sm-6 col-md-4'>@2021 Yashtary all right reserved</div>
                         <div className='list-unstyled row payment-icons col-6 col-sm-6 col-md-4'>
                             <div className='col-3 d-flex justify-content-end'>
-                                <img src={window.location.origin + '/images/Payment-copy-copy.png'} alt="" />
+                                <img src={window.location.origin + 'images/Payment-copy-copy.png'} alt="" />
                             </div>
                             <div className='col-3'>
-                                <img src={window.location.origin + '/images/images.png'} alt="" />
+                                <img src={window.location.origin + 'images/images.png'} alt="" />
 
                             </div>
                             <div className='col-3 d-flex justify-content-start'>
-                                <img src={window.location.origin + '/images/download.png'} alt="" />
+                                <img src={window.location.origin + 'images/download.png'} alt="" />
 
                             </div>
                         </div>
