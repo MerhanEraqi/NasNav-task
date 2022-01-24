@@ -10,7 +10,7 @@ class ProductsSlider extends Component {
                 <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/Adicolor_Backpack_Black_H35596_01_standard.jpg" class="card-img-top" alt="..." />
+                                <img src="images/Adicolor_Backpack_Black_H35596_01_standard.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -24,7 +24,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -46,7 +46,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/Adicolor_Classics_Track_Jacket_Black_H35609_21_model.jpg" class="card-img-top" alt="..." />
+                                <img src="images/Adicolor_Classics_Track_Jacket_Black_H35609_21_model.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -60,7 +60,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -82,7 +82,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/Adicolor_Classics_Trefoil_Tee_White_H06644_21_model.jpg" class="card-img-top" alt="..." />
+                                <img src="images/Adicolor_Classics_Trefoil_Tee_White_H06644_21_model.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -96,7 +96,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -118,7 +118,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                            <img src="/images/nike-sportswear-club-fleece-unisex-hoodie-bv2654-010-0.jpg" class="card-img-top" alt="..." />
+                            <img src="images/nike-sportswear-club-fleece-unisex-hoodie-bv2654-010-0.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -132,7 +132,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -154,7 +154,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/Adicolor_Classics_Trefoil_Tee_White_H06644_21_model.jpg" class="card-img-top" alt="..." />
+                                <img src="images/Adicolor_Classics_Trefoil_Tee_White_H06644_21_model.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -168,7 +168,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -190,7 +190,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/Adicolor_Classics_Track_Jacket_Black_H35609_21_model.jpg" class="card-img-top" alt="..." />
+                                <img src="images/Adicolor_Classics_Track_Jacket_Black_H35609_21_model.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -204,7 +204,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
@@ -226,7 +226,7 @@ class ProductsSlider extends Component {
                     <div className='col-3'>
                         <div className='wraper-p'>
                             <div class="card w-100">
-                                <img src="/images/nike-sportswear-club-fleece-unisex-hoodie-bv2654-010-0.jpg" class="card-img-top" alt="..." />
+                                <img src="images/nike-sportswear-club-fleece-unisex-hoodie-bv2654-010-0.jpg" class="card-img-top" alt="..." />
                                 <div class="card-body">
                                     <h5 class="card-title">Adidas black t-shirt lorem ipsum dolor sit amet.</h5>
                                     <div>
@@ -240,7 +240,7 @@ class ProductsSlider extends Component {
                                                         <div class="sale-percentage shadow-sm px-2 py-1">30%</div>
                                                     </div>
                                                 </div>
-                                                <div className='brand col-4'><img src='http://localhost:3000/images/1280px-Adidas_Logo.svg.png' /></div>
+                                                <div className='brand col-4'><img src='images/1280px-Adidas_Logo.svg.png' /></div>
                                             </div>
                                             <div class="rating-box d-flex">
                                                 <ul class="rating rating-with-review-item d-flex">
